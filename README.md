@@ -1,0 +1,1 @@
+This current project would be a skeleton of a recipe website and would teach me the basics of HTML.
